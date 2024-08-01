@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alief Zulfahri</h1>
-<h3 align="center">A passionate Internet of Things Engineer from Indonesia</h3>
+<h3 align="center">A passionate Internet of Things Engineer & Designer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alzulfahri&label=Profile%20views&color=0e75b6&style=flat" alt="alzulfahri" /> </p>
 
